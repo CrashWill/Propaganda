@@ -1,0 +1,10 @@
+F:\Projetos\BackEnd\Propaganda\bin\Debug\netcoreapp2.0\Propaganda.deps.json
+F:\Projetos\BackEnd\Propaganda\bin\Debug\netcoreapp2.0\Propaganda.runtimeconfig.json
+F:\Projetos\BackEnd\Propaganda\bin\Debug\netcoreapp2.0\Propaganda.runtimeconfig.dev.json
+F:\Projetos\BackEnd\Propaganda\bin\Debug\netcoreapp2.0\Propaganda.dll
+F:\Projetos\BackEnd\Propaganda\bin\Debug\netcoreapp2.0\Propaganda.pdb
+F:\Projetos\BackEnd\Propaganda\obj\Debug\netcoreapp2.0\Propaganda.csproj.CoreCompileInputs.cache
+F:\Projetos\BackEnd\Propaganda\obj\Debug\netcoreapp2.0\Propaganda.AssemblyInfoInputs.cache
+F:\Projetos\BackEnd\Propaganda\obj\Debug\netcoreapp2.0\Propaganda.AssemblyInfo.cs
+F:\Projetos\BackEnd\Propaganda\obj\Debug\netcoreapp2.0\Propaganda.dll
+F:\Projetos\BackEnd\Propaganda\obj\Debug\netcoreapp2.0\Propaganda.pdb
